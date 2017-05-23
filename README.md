@@ -1,6 +1,16 @@
 # Курс «Python для анализа данных» 
 ## Софт 
 Используется Python 2.7 и оболочка Jupyter. Чтобы их установить, проще всего скачать пакет [Anaconda](https://www.continuum.io/downloads)
+## Полезные ссылки
+1. этот [репозиторий](https://github.com/vboyadzhi/python-for-data-analysis) :-)
+2. самый короткий гайд по git http://rogerdudler.github.io/git-guide/
+3. курс по git https://www.codecademy.com/learn/learn-git
+4. cheat sheet по питону http://www.datasciencefree.com/python.pdf
+5. cheat sheet по numpy http://www.datasciencefree.com/numpy.pdf
+5. cheat sheet по pandas https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+6. визуализация того как работают переменные и память в питоне http://www.codeskulptor.org/viz/index.html
+7. задачи по алгоритмам + online judge https://leetcode.com/
+8. https://www.kaggle.com/ раздел с [кернелами](https://www.kaggle.com/c/titanic/kernels?sortBy=votes&language=Python)
 ## Материалы
 № | Тема | ноутбук | ScreenCast 
 ---|---|---|---
