@@ -1,6 +1,9 @@
 # Курс «Python для анализа данных» 
+"Python for Data Analysis"
+by Wes McKinney
 ## Софт 
 Используется Python 2.7 и оболочка Jupyter. Чтобы их установить, проще всего скачать пакет [Anaconda](https://www.continuum.io/downloads)
+Книгу в электронном виде можно скачать тут [twirpx.com](http://www.twirpx.com/library/)
 ## Полезные ссылки
 1. этот [репозиторий](https://github.com/vboyadzhi/python-for-data-analysis) :-)
 2. самый короткий гайд по git http://rogerdudler.github.io/git-guide/
@@ -23,3 +26,16 @@
 6 | Assignment #2 | [Assignment_2.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/Assignment_2.ipynb) | -
 7 | Визуализация данных<br>Seaborn, Plotly, Matplotlib | [topic2_part1_seaborn_matplotlib_plotly.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/topic2_part1_seaborn_matplotlib_plotly.ipynb)<br>[topic2_part2_telecom_churn_tsne.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/topic2_part2_telecom_churn_tsne.ipynb) | [[30.05.17]](https://www.youtube.com/watch?v=SxY6AOlT-ks)
 8 | Assignment #3 | [Assignment_3.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/Assignment_3.ipynb) | -
+9 | Indexes (Indexing, selection, and filtering)<br>DataFrame Joints(Combining and Merging) | [ch05-part2.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch05-part2.ipynb)<br>[ch07.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch07.ipynb) | [[13.06.17]](https://www.youtube.com/watch?v=-KQl-AH4dyA) 
+10 | Assignment #4 Data loading<br>Plotting and Visualization<br>Data Aggregation and Group Operations<br>Time Series<br>Financial and Economic Data Application<br>Advanced NumPy | [ch06.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch06.ipynb)<br>[ch08.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch08.ipynb)<br>[ch09.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch09.ipynb)<br>[ch10.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch10.ipynb)<br>[ch11.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch11.ipynb)<br>[ch12.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch12.ipynb) | -
+
+## Введение в Машинное Обучение
+"Python Machine Learning"
+by Sebastian Raschka
+## Репозитории
+[github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
+[github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)
+## Материалы
+№, Тема | ScreenCast 
+---|---
+1 Giving Computers the Ability to Learn from Data<br>2 Training Machine Learning Algorithms for Classification | [[21.06.17]](https://www.youtube.com/watch?v=CRbrMqCKmqY)
