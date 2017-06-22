@@ -32,7 +32,7 @@
 9 | Indexes (Indexing, selection, and filtering)<br>DataFrame Joints(Combining and Merging) | [ch05-part2.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch05-part2.ipynb)<br>[ch07.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch07.ipynb) | [[13.06.17]](https://www.youtube.com/watch?v=-KQl-AH4dyA) 
 10 | Assignment #4 Data loading<br>Plotting and Visualization<br>Data Aggregation and Group Operations<br>Time Series<br>Financial and Economic Data Application<br>Advanced NumPy | [ch06.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch06.ipynb)<br>[ch08.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch08.ipynb)<br>[ch09.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch09.ipynb)<br>[ch10.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch10.ipynb)<br>[ch11.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch11.ipynb)<br>[ch12.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch12.ipynb) | -
 
-## Введение в Машинное Обучение
+# Курс «Введение в Машинное Обучение»
 + "Python Machine Learning" by Sebastian Raschka
 ## Репозитории
 [github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)<br>
