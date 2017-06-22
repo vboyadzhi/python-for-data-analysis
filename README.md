@@ -1,6 +1,9 @@
 # Курс «Python для анализа данных» 
-"Python for Data Analysis"
-by Wes McKinney
++ "Python for Data Analysis" by Wes McKinney <br>
++ ODS course [https://github.com/Yorko/mlcourse_open](https://github.com/Yorko/mlcourse_open)
+## Репозиторий
+Отсюда нужны только папки с данными (ch6-ch11)<br>
+[github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
 ## Софт 
 Используется Python 2.7 и оболочка Jupyter. Чтобы их установить, проще всего скачать пакет [Anaconda](https://www.continuum.io/downloads)
 Книгу в электронном виде можно скачать тут [twirpx.com](http://www.twirpx.com/library/)
@@ -30,10 +33,9 @@ by Wes McKinney
 10 | Assignment #4 Data loading<br>Plotting and Visualization<br>Data Aggregation and Group Operations<br>Time Series<br>Financial and Economic Data Application<br>Advanced NumPy | [ch06.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch06.ipynb)<br>[ch08.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch08.ipynb)<br>[ch09.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch09.ipynb)<br>[ch10.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch10.ipynb)<br>[ch11.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch11.ipynb)<br>[ch12.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch12.ipynb) | -
 
 ## Введение в Машинное Обучение
-"Python Machine Learning"
-by Sebastian Raschka
++ "Python Machine Learning" by Sebastian Raschka
 ## Репозитории
-[github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
+[github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)<br>
 [github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)
 ## Материалы
 №, Тема | ScreenCast 
