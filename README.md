@@ -16,7 +16,8 @@
 
 **Репозиторий**<br>
 Отсюда нужны только папки с данными (ch6-ch11)<br>
-[github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)<br>
+[github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
+
 **Софт **<br>
 Используется Python 2.7 и оболочка Jupyter. Чтобы их установить, проще всего скачать пакет [Anaconda](https://www.continuum.io/downloads)<br>
 Книгу в электронном виде можно скачать тут [twirpx.com](http://www.twirpx.com/library/)<br><br>
