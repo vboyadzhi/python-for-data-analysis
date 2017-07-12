@@ -12,7 +12,8 @@
 
 # Курс «Python для анализа данных» 
 + "Python for Data Analysis" by Wes McKinney <br>
-+ ODS course [https://github.com/Yorko/mlcourse_open](https://github.com/Yorko/mlcourse_open)<br>
++ ODS course [https://github.com/Yorko/mlcourse_open](https://github.com/Yorko/mlcourse_open)
+
 **Репозиторий**<br>
 Отсюда нужны только папки с данными (ch6-ch11)<br>
 [github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)<br>
@@ -36,10 +37,12 @@
 10 | Assignment #4 Data loading<br>Plotting and Visualization<br>Data Aggregation and Group Operations<br>Time Series<br>Financial and Economic Data Application<br>Advanced NumPy | [ch06.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch06.ipynb)<br>[ch08.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch08.ipynb)<br>[ch09.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch09.ipynb)<br>[ch10.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch10.ipynb)<br>[ch11.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch11.ipynb)<br>[ch12.ipynb](https://github.com/vboyadzhi/python-for-data-analysis/blob/master/ch12.ipynb) | -
 
 # Курс «Введение в Машинное Обучение»
-+ "Python Machine Learning" by Sebastian Raschka<br>
++ "Python Machine Learning" by Sebastian Raschka
+
 **Репозитории**<br>
 [github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)<br>
-[github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)<br>
+[github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)
+
 **Материалы**
 
 №, Тема | ScreenCast 
@@ -51,7 +54,7 @@
 6 Learning Best Practices for Model Evaluation and Hyperparameter Tuning |
 7 Combining Different Models for Ensemble Learning |
 8 Applying Machine Learning to Sentiment Analysis |
-<br>
+
 **Построение и Анализ Признаков:**<br>
 https://habrahabr.ru/company/ods/blog/325422<br>
 ролик о правильной кросвалидации при использовании признаков с расчетом woe или mean по целевой переменной (target)
@@ -67,7 +70,7 @@ http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-proble
 ```python
 pd.get_dummies(union, prefix=[list of prefixes], prefix_sep='_', dummy_na=False, columns = [list of columns], drop_first=True)
 ```
-смысл в том, что на бою(тесте) если будет новый класс - он просто создаст новую колонку (без ошибки), но в модель в итоге войдет ограниченное количество колонок<br>
+смысл в том, что на бою(тесте) если будет новый класс - он просто создаст новую колонку (без ошибки), но в модель в итоге войдет ограниченное количество колонок
 
 **По поводу работы с текстом:** <br>
 видео семинара Стаса Семенова, основные моменты он рассказывает https://www.youtube.com/watch?v=5sQ8-Er8tXM&app=desktop
