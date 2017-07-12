@@ -6,9 +6,10 @@
 5. cheat sheet по питону http://www.datasciencefree.com/python.pdf
 6. cheat sheet по numpy http://www.datasciencefree.com/numpy.pdf
 7. cheat sheet по pandas https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
-8. визуализация того как работают переменные и память в питоне http://www.codeskulptor.org/viz/index.html
-9. задачи по алгоритмам + online judge https://leetcode.com/
-10. https://www.kaggle.com/ раздел с [кернелами](https://www.kaggle.com/c/titanic/kernels?sortBy=votes&language=Python)
+8. cheat sheet по scikit-learn https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+9. визуализация того как работают переменные и память в питоне http://www.codeskulptor.org/viz/index.html
+10. задачи по алгоритмам + online judge https://leetcode.com/
+11. https://www.kaggle.com/ раздел с [кернелами](https://www.kaggle.com/c/titanic/kernels?sortBy=votes&language=Python)
 
 # Курс «Python для анализа данных» 
 + "Python for Data Analysis" by Wes McKinney <br>
